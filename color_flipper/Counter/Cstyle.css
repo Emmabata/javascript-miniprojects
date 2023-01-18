@@ -1,0 +1,50 @@
+
+.title {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: #1041e1;
+    font-weight: bold;
+}
+.container {
+    position: absolute;
+    background: linear-gradient(90deg, rgba(237,26,147,0.8828781512605042) 0%, rgba(0,200,133,0.9220938375350141) 35%, rgba(255,0,215,0.5887605042016807) 100%);
+    width: 100vh;
+    height:500px;
+    left: 25rem;
+    text-align: center;
+    border-radius: 4rem;
+}
+
+.btnn {
+    position: relative;
+    top:9rem;
+    height: 4rem;
+    padding-right: 7px;
+    border-style: groove;
+    border-radius: 2rem;
+}
+
+
+.btn {
+    border-radius: 2rem;
+    border: none;
+    font-size: 1.3rem;
+    padding: 19px;
+    margin-left: 10px;
+}
+
+.btn:hover{
+    background: rgb(25, 15, 15);
+    color: #fff;
+    cursor: pointer;
+    
+} 
+
+.value {
+    font-weight: bold;
+    font-size:12rem;
+    position: relative;
+    top: 4rem;
+}
