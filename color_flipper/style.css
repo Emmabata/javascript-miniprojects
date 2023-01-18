@@ -1,0 +1,43 @@
+.title {
+    text-align: center;
+    padding: 20px;
+    font-size: 3.2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(228, 134, 20);
+}
+
+.container {
+    width: 100vh;
+    height: 400px;
+    background-color:blue ;
+    position: relative;
+    left: 27rem;
+    top:5rem;
+    text-align: center;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
+h2 {
+    font-weight: 600px;
+    font-size: 4rem;
+    padding-top: 55px;
+    border: none;
+    background-color: antiquewhite;
+    border-radius: 52px;
+    color: rgb(21, 67, 151);
+}
+
+.btn {
+    font-size: 2rem;
+    border-radius: 12px;
+    border: none;
+}
+
+.btn:hover{
+    background:rgb(29, 27, 27);
+    color: #fff;
+    cursor: pointer;
+}
